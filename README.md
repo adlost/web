@@ -1,2 +1,2 @@
 # web
-github web-page
+github web-page https://andlozedd.github.io/web/
